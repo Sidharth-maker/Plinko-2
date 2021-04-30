@@ -8,7 +8,7 @@ var ground
 var division = []
 var divisionHeight = 300;
 var particle
-var particles = [particle]
+var particles = []
 var plinko = []
 var count = 0
 var score = 0
